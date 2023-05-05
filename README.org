@@ -15,5 +15,5 @@
 - [[https://github.com/j624364/edt-project][edt-project]]
 
 ** Old / Unmaintained
-- [[https://github.com/j624364/.doom.d][.doom.d]] (old)
-- [[https://github.com/j624364/fish][fish]] (old)
+- [[https://github.com/j624364/.doom.d][.doom.d]]
+- [[https://github.com/j624364/fish][fish]]
