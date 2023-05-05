@@ -4,14 +4,16 @@
 ** Configuration Repos
 - [[https://github.com/j624364/dotfiles][dotfiles]]
 - [[https://github.com/j624364/nvim][nvim]]
-- [[https://github.com/j624364/.doom.d][.doom.d]] (old)
 - [[https://github.com/j624364/helix][helix]]
 - [[https://github.com/j624364/alacritty][alacritty]]
 - [[https://github.com/j624364/dwm-bar][dwm-bar]]
 - [[https://github.com/j624364/i3][i3]]
-- [[https://github.com/j624364/fish][fish]] (old)
 
 ** Public Projects
 - [[https://github.com/j624364/indent][indent]]
 - [[https://github.com/j624364/ArduinoLock][ArduinoLock]]
 - [[https://github.com/j624364/edt-project][edt-project]]
+
+** Old / Unmaintained
+- [[https://github.com/j624364/.doom.d][.doom.d]] (old)
+- [[https://github.com/j624364/fish][fish]] (old)
